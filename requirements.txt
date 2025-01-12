@@ -1,0 +1,9 @@
+langgraph
+gradio
+cohere
+requests-oauthlib
+transformers
+torch
+sentence-transformers
+chromadb
+python-dotenv
